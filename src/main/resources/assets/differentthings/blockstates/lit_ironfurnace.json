@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "differentthings:lit_ironfurnace" },
+        "facing=south": { "model": "differentthings:lit_ironfurnace", "y": 180 },
+        "facing=west":  { "model": "differentthings:lit_ironfurnace", "y": 270 },
+        "facing=east":  { "model": "differentthings:lit_ironfurnace", "y": 90 }
+    }
+}

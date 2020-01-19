@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "differentthings:blocks/redlogtop",
+		"side": "differentthings:blocks/redlog"
+    }
+}

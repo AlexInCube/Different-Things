@@ -1,0 +1,13 @@
+{
+"example_music_disc":
+    {
+        "category": "record",
+        "sounds":
+        [
+            {
+                "name": "differentthings:bashkiriya",
+                "stream": true
+            }
+        ]
+    },
+}

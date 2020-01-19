@@ -1,0 +1,15 @@
+[
+{
+  "modid": "differentthings",
+  "name": "Different Things",
+  "description": "The first mod on minecraft that made AlexInCube",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "authorList": ["AlexInCube", "Noshiko"],
+  "credits": "",
+  "logoFile": "assets/differentthings/differentthings_modlogo.png",
+  "screenshots": [ "differentthings_modlogo.png" ],
+  "screenshots": [],
+  "dependencies": []
+}
+]

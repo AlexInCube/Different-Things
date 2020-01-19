@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "APS",
+    "   ",
+    "   "
+  ],
+  "key": {
+    "P": {
+      "item": "differentthings:evilemeraldpickaxe"
+    },
+    "S": {
+      "item": "differentthings:evilemeraldshovel"
+    },
+	"A": {
+      "item": "differentthings:evilemeraldaxe"
+    }
+  },
+  "result": {
+    "item": "differentthings:evilemeraldmultitool"
+  }
+}

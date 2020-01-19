@@ -1,0 +1,9 @@
+{
+	"soundfranx": {
+		"category": "record",
+		"sounds": [{
+			"name": "differentthings:franx",
+			"stream": true
+		}]
+	}
+}

@@ -1,0 +1,9 @@
+{
+    "variants":
+    {
+        "axis=y":  { "model": "differentthings:redlogs" },
+        "axis=z":   { "model": "differentthings:redlogs", "x": 90 },
+        "axis=x":   { "model": "differentthings:redlogs", "x": 90, "y": 90 },
+        "axis=none": { "model": "differentthings:redlogs" }
+    }
+}

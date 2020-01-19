@@ -1,0 +1,64 @@
+itemGroup.differentthings=Different Things
+item.evilemerald.name=Evil Emerald
+item.rolton.name=Rolton
+item.evilemeraldaxe.name=Evil Emerald Axe
+item.evilemeraldshovel.name=Evil Emerald Shovel
+item.evilemeraldpickaxe.name=Evil Emerald Pickaxe
+item.evilemeraldhoe.name=Evil Emerald Hoe
+item.evilemeraldsword.name=Evil Emerald Sword
+item.evilemeraldhead.name=Evil Emerald Helmet
+item.evilemeraldleggs.name=Evil Emerald Leggs
+item.evilemeraldchestplate.name=Evil Emerald Chestplate
+item.evilemeraldboots.name=Evil Emerald Boots
+item.evilemeraldmultitool.name=Evil Emerald Paxel
+
+item.lightningstaff.name=Lightning Staff
+item.healingstaff.name=Healing Staff
+
+
+
+tile.evilemeraldblock.name=Evil Emerald Block
+tile.evilemeraldore.name=Evil Emerald Ore
+
+tile.evilemeraldchest.name=Evil Emerald Chest
+container.evilemeraldchest=Evil Emerald Chest
+
+tile.ironfurnace.name=Iron Furnace
+container.ironfurnace=Iron Furnace
+tile.goldfurnace.name=Gold Furnace
+container.Goldfurnace=Gold Furnace
+tile.diamondfurnace.name=Diamond Furnace
+container.DIAMONDfurnace=Diamond Furnace
+
+container.repairer=Repairer
+tile.repairer.name=Repairer
+
+container.breaker=Breaker
+tile.breaker.name=Breaker
+
+tile.redsapling.name=Red Sapling
+tile.redplanks.name=Red Planks
+tile.redleaves.name=Red Leaves
+tile.redlogs.name=Red Log
+
+tile.vegetablebush.name=Vegetable Bush
+
+tile.stafftable.name=Table
+tile.redmine.name=Red Mine
+
+effect.your_potion=Super Effect
+potion.effect.your_potion=Super Potion
+splash_potion.effect.your_potion=Splash Super Potion
+lingering_potion.effect.your_potion=Lingering Super Potion
+tipped_arrow.effect.your_potion=Arrow of Super Potion
+
+item.corn_seed.name=Corn Seed
+item.corn.name=Corn
+
+item.record.music_discfanx.name=Franxx
+item.record.music_discfanx.desc=Franxx Kiss of Death
+
+item.furnacefuelupgrade.name=Fuel Efficiency Upgrade
+item.furnacecooktimeupgrade.name=Cook Time Upgrade
+
+entity.Villager.differentthings.wizard=Wizard
